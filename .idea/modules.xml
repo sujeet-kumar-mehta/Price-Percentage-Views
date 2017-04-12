@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PricePercentageView.iml" filepath="$PROJECT_DIR$/PricePercentageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PricePercentageViews/PricePercentageViews.iml" filepath="$PROJECT_DIR$/PricePercentageViews/PricePercentageViews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pricepercentageview2/pricepercentageview2.iml" filepath="$PROJECT_DIR$/pricepercentageview2/pricepercentageview2.iml" />
+    </modules>
+  </component>
+</project>

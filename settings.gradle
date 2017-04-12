@@ -1,0 +1,1 @@
+include ':app', ':pricepercentageview2', ':PricePercentageViews'
